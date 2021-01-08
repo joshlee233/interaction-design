@@ -177,7 +177,7 @@ Pinterest is a good example of a social media website that uses cards to display
 When designing the card I thought of making a sort of basic card displaying a picture with a short description. This could have a wide range of applications for example, displaying a hotel room with the option to book.
 
 This is a screenshot from the premier inn website showing a collection of cards to allow users to “discover” their hotels.
-![Premier inn card](./report/assets/buttons/premier.png)
+![Premier inn card](./report/assets/cards/premier.png)
 (Premier inn website, [https://www.premierinn.com/gb/en/home.html](https://www.premierinn.com/gb/en/home.html), viewed on friday 8th Jan 2020)
 
 It makes the user experience of browsing the website easier and less overwhelming to read and use. In the screenshot below are the card designs I came up with showing some different layouts that cards can have:

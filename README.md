@@ -78,7 +78,7 @@ The modal is made so that the content of the website is obscured and the modal i
 
 The prototype was conceived on figma with the idea of making a newsletter signup modal. There is a big background with images of letters to give it the mail feel. The modal comprises of a title, a short description of what the modal is about and a field for the user to input their email address and a button to submit it.
 
-![Modal design](./report/assets/modals/modaldesign.png)
+![Modal design](./report/assets/modals/modalsdesign.png)
 
 ### Coding
 ![Modal design](./report/assets/modals/modals1.png)

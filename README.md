@@ -1,4 +1,4 @@
-### Interaction design
+# Interaction design
 
 ## Contents
 

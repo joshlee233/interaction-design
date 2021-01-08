@@ -138,7 +138,7 @@ Buttons should never hug the text, rather they should have padding inside the bu
 ![Buttons code](./report/assets/buttons/buttons1.png)
 ![Buttons code](./report/assets/buttons/buttons2.png)
 ### Walkthrough
-
+![buttons walkthrough](./report/assets/buttons/buttonsgif.gif)
 
 ### Reflection
 
@@ -180,13 +180,13 @@ This is a screenshot from the premier inn website showing a collection of cards 
 
 It makes the user experience of browsing the website easier and less overwhelming to read and use. In the screenshot below are the card designs I came up with showing some different layouts that cards can have:
 
-![Cards design](./report/assets/buttons/cardsdesign.png)
+![Cards design](./report/assets/cards/cardsdesign.png)
 
 ### Coding
-![Cards code](./report/assets/buttons/cards1.png)
-![Cards code](./report/assets/buttons/cards2.png)
+![Cards code](./report/assets/cards/cards1.png)
+![Cards code](./report/assets/cards/cards2.png)
 ### Walkthrough 
-
+![Cards walkthrough](./report/assets/cards/cardsgif.gif)
 
 ### Reflection
 
@@ -228,7 +228,7 @@ The padding helped make the text box more visually appealing and I've added colo
 ![search bar code](./report/assets/searchbar/search1.png)
 ![search bar code](./report/assets/searchbar/search2.png)
 ### Walkthrough
-
+![search bar walkthrough](./report/assets/searchbar/searchgif.gif)
 
 ### Reflection
 
@@ -272,7 +272,7 @@ Keeping the text and background easy to read with a high contrast was an essenti
 ![toggle code](./report/assets/toggle/toggle1.png)
 ![toggle code](./report/assets/toggle/toggle2.png)
 ### Walkthrough
-
+![toggle walkthrough](./report/assets/toggle/togglegif.gif)
 
 ### Reflection
 

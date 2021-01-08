@@ -84,7 +84,7 @@ The prototype was conceived on figma with the idea of making a newsletter signup
 ![Modal design](./report/assets/modals/modals3.png)
 
 ### Walkthrough
-
+![Modal walkthrough](./report/assets/modals/modalgif.gif)
 
 ### Reflection
 
